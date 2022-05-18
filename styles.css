@@ -7,7 +7,7 @@ body {
    background-size: cover;
    font-family: 'Times New Roman', Times, serif;
    font-weight: bold;
-   font-size: larger;
+   font-size: large;
 }
 form {
     padding-left: 10%;
@@ -18,7 +18,7 @@ h1 {
     background-color: rgba(128, 128, 128, 0.175);
 }
 label {
-    margin-top: 20px;
+    margin-top: 15px;
 } 
 #button-1 {
     
